@@ -35,14 +35,19 @@ The repository contains datasets for testing. Here are the sources:
    - Link: https://www.kaggle.com/c/titanic
    - Description: Predicts passenger survival. Contains mixed numerical and categorical data.
 
-2. **Wine Dataset** (`WineTraining.csv`, `WineTest.csv`)
-   - Source: UCI Machine Learning Repository
-   - Link: https://archive.ics.uci.edu/ml/datasets/wine+quality
+2. **Wine Quality Dataset** (`WineTraining.csv`, `WineTest.csv`)
+   - Source: Kaggle Wine Quality Dataset
+   - Link: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
    - Description: Predicts wine quality using numerical features.
 
-3. **Bank Dataset** (`bank.csv`, `bankTraining.csv`, `bankTest.csv`)
-   - Source: UCI Machine Learning Repository
-   - Link: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+3. **Mushroom Classification Dataset**
+   - Source: Kaggle Mushroom Classification
+   - Link: https://www.kaggle.com/datasets/uciml/mushroom-classification
+   - Description: Predicts if a mushroom is poisonous or edible.
+
+4. **Bank Marketing Dataset** (`bank.csv`, `bankTraining.csv`, `bankTest.csv`)
+   - Source: Kaggle Bank Marketing Dataset
+   - Link: https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
    - Description: Predicts if a customer will subscribe to a term deposit.
 
 ## How to Compile and Run
